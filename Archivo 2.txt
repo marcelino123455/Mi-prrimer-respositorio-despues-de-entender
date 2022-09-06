@@ -1,1 +1,2 @@
 b = 4
+print("Asi es mi amigo este es el archivo 2")
